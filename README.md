@@ -30,3 +30,7 @@ This generally would not be possible without some open source projects, wheather
 - [Bedrock-Protocol](https://github.com/CloudburstMC/Protocol)
 - [TunnelMC](https://github.com/THEREALWWEFAN231/TunnelMC)
 - [Nukkit](https://github.com/CloudburstMC/Nukkit/)
+
+# How to use it?
+Here is Chinese tutorial:https://www.mcbbs.net/thread-1157546-1-1.html
+And tutorial in English:
