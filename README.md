@@ -34,12 +34,14 @@ This generally would not be possible without some open source projects, wheather
 # How to use it?
 Here is Chinese tutorial:https://www.mcbbs.net/thread-1157364-1-1.html
 
-And tutorial in English:
+## And tutorial in English:
 
 As with most servers written in Java, you need a startup BAT to start it.
 
 @echo
+
 java -jar ez4h.jar
+
 pause
 
 Double click to run it.
