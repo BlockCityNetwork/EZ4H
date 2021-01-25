@@ -38,10 +38,8 @@ Here is Chinese tutorial:https://www.mcbbs.net/thread-1157364-1-1.html
 
 As with most servers written in Java, you need a startup BAT to start it.
 
-@echo
-
-java -jar ez4h.jar
-
+@echo  
+java -jar ez4h.jar  
 pause
 
 Double click to run it.
