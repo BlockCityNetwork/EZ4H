@@ -36,7 +36,8 @@ Here is Chinese tutorial:https://www.mcbbs.net/thread-1157364-1-1.html
 
 ## And tutorial in English:  
 As with most servers written in Java, you need a startup BAT to start it.  
-~~~@echo  
+~~~  
+@echo  
 java -jar ez4h.jar  
 pause
 ~~~  
@@ -57,5 +58,6 @@ After this, you will see some files generated under the EZ4H root directory.Let'
   }
 }
 ~~~  
-I think you already know how to configure this, but it's worth mentioning briefly.
+(Yes, it's a JSON file)  
+I think you already know how to configure this, but I'm going to go through it briefly.
 
